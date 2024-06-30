@@ -12,5 +12,5 @@ Enhance customer experience and increase sales performance by analyzing sales da
 - Increased customer engagement by 15% through improved marketing campaign efficiency targeting specific customer segments.
 ## Conclusion
 - Married women aged 26-35 from Uttar Pradesh, Maharashtra, and Karnataka
-- Working in IT, Healthcare, and Aviation sectors
-- More likely to buy products from the Food, Clothing, and Electronics categories
+Working in IT, Healthcare, and Aviation sectors
+More likely to buy products from the Food, Clothing, and Electronics categories
