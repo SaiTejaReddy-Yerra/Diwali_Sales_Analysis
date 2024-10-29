@@ -8,6 +8,7 @@ Enhance customer experience and increase sales performance by analyzing sales da
 - Exploratory Data Analysis (EDA): Used Seaborn for visualizing and exploring the data.
 - Customer Identification: Identified potential customers based on states, occupations, genders, and age groups.
 - Sales Analysis: Analyzed sales data to find the most popular product categories and specific products within those categories.
+  
 ## Impact
 - Increased customer engagement by 15% through improved marketing campaign efficiency targeting specific customer segments.
 ## Conclusion
