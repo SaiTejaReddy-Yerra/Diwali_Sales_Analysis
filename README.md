@@ -20,5 +20,6 @@ The EDA phase provides insights into various aspects of sales data during Diwali
 - **Sales by Occupation:** The top buying occupations include IT, Healthcare, and Aviation.
 - **Sales by Product Category:** Analysis of sales distribution across different product categories.
 
+
 ## Conclusion
 The analysis indicates that married women aged 26-35 from Uttar Pradesh, Maharashtra, and Karnataka, working in IT, Healthcare, and Aviation sectors, exhibit strong purchasing power, particularly in the Food, Clothing, and Electronics categories. These insights can guide marketing and sales strategies for future Diwali seasons.
